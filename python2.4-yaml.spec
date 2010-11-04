@@ -9,7 +9,6 @@ License:        MIT
 Group:          Development/Python
 URL:            http://pyyaml.org/
 Source0:        http://pyyaml.org/download/pyyaml/PyYAML-%{version}.tar.gz
-%py_requires -d
 BuildRequires:	yaml-devel
 BuildRequires:  python2.4-devel
 Requires:       python2.4
